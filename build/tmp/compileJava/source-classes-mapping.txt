@@ -1,2 +1,4 @@
-com/bridgelabz/snakeAndLadder.java
- com.bridgelabz.snakeAndLadder
+com/bridgelabz/SnakeAndLadder.java
+ com.bridgelabz.SnakeAndLadder
+com/bridgelabz/SnakeAndLadderMain.java
+ com.bridgelabz.SnakeAndLadderMain
